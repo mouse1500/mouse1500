@@ -19,19 +19,29 @@
 <div align="center">
   <img src="https://media.giphy.com/media/lsRqhM8eAtu47SzBRa/giphy.gif" width="500" height="300"/>
 </div>
-:man_technologist: About Me :
+:man_technologist: Обо мне :
 
 ---
-I am a data analyst from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+ Я аналитик данных из России <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I am a beginner data analyst, I am currently studying at karpov.courses.
+- :telescope: Я начинающий аналитик данных, в настоящее время учусь на Karpov.courses.
 
-- :seedling: Studying technical documentation.
+- :seedling: Изученаю техническую документацию.
 
-- :zap: In my free time I read fiction, spend time with my family and read technical articles.
+- :zap: В свободное время я читаю художественную литературу, провожу время с семьей и читаю технические статьи.
 
+- :books: Закончил курсы по аналитике данных, от Томского Государственного Университета.
+  В процессе обучения изучил:
+  - основы python и его библиотеки, такие как pandas, matplotlib, seaborn, numpy, json
+  - git
+  - sql
+  - power bi
+  - основы статистики
+  - Сертификат об окончании обучения:
+  
+  
 - :mailbox: How to reach me: ![Telegram Badge](https://img.shields.io/badge/t.me/Bereza_ne_derevo-blue?logo=Telegram&logoColor=white)
-
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
