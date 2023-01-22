@@ -35,13 +35,23 @@
   - основы python и его библиотеки, такие как pandas, matplotlib, seaborn, numpy, json
   - git
   - sql
-  - power bi
+  - power bi, пример выполненого дашборда:
+  <div>
+    <img src="https://github.com/mouse1500/mouse1500/blob/main/Dashboard%20.jpg" width="500">
+  </div>
+  
   - основы статистики
+  
   - Сертификат об окончании обучения:
-  
-  
-- :mailbox: How to reach me: ![Telegram Badge](https://img.shields.io/badge/t.me/Bereza_ne_derevo-blue?logo=Telegram&logoColor=white)
-  
+  <div>
+    <img src="https://github.com/mouse1500/mouse1500/blob/main/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.jpg" width="500">
+  </div>
+- :mailbox: How to reach me:
+  <div>
+    <a href="https://t.me/Bereza_ne_derevo">
+      <img src="https://img.shields.io/badge/t.me/Bereza_ne_derevo-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/
+    </a>
+  </div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
